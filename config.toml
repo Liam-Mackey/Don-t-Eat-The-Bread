@@ -1,0 +1,5 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Don't Eat the Bread"
+[params]
+subtitle = "Words From an Uncommon Man"
